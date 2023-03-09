@@ -61,7 +61,7 @@ nav ul li {
     width: 70px;
 }
 .first {
-    background: url(/images/bg.jpg);
+    background: url(images/bg.jpg);
     height: 600px;
     padding-top: 20px;
     color: #fff;
